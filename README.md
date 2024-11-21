@@ -21,3 +21,5 @@ We developed visually appealing graphs and charts, including column and map char
 ## Dashboards
 
 ![Dashboard Light mode](https://github.com/Elson72/Healthcare-provider/blob/main/health%20dashboard%20white.png)
+
+![Dashboard Dark mode](https://github.com/Elson72/Healthcare-provider/blob/main/healthcare%20dashboard%20dark.png)
