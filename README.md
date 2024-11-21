@@ -19,3 +19,5 @@ Loaded and cleaned data in power bi's power query editor mode where we examined 
 We developed visually appealing graphs and charts, including column and map charts, with percentages formatted appropriately in which we applied gradient background colors, dark mode/light mode, and color customizations for better visual clarity. Also labels, shapes, shadows, and dashboard elements were customized for professional-level visualization.
 
 ## Dashboards
+
+![Dashboard Light mode](https://github.com/Elson72/Healthcare-provider/blob/main/health%20dashboard%20white.png)
