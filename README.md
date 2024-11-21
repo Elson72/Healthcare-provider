@@ -28,3 +28,4 @@ We developed visually appealing graphs and charts, including column and map char
 
 
 ## Conclusion
+The above represents a dynamic interactive healthcare provider and patient analysis dashboard which we added patient location analysis through state and city toggles to avoid duplicate charts. Slicers were implemented for filtering data by metrics and creating bookmarks to improve navigation between slides.
